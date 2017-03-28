@@ -9,7 +9,7 @@ var weeklyQuestions = [
                /*0*/
                {
                variableName: "attitude1",
-               questionPrompt: "hallo" + localStore.personalText + " is...",
+               questionPrompt: "ishetgelukt" + localStore.personalText + " is...",
                minResponse: 1,
                maxResponse: 7,
                labels: [
